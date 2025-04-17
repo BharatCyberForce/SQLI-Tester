@@ -10,13 +10,6 @@
 - Automatically saves vulnerable URLs to a text file
 - Simple and intuitive CLI interface
 
-## Use Cases
-
-- Vulnerability assessment
-- Web app pentesting
-- Bug bounty recon
-- Automated SQLi payload testing
-
 ## Installation
 
 ```bash
