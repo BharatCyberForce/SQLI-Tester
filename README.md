@@ -1,6 +1,6 @@
 # SQLI Tester
 
-**SQLI Tester** is a fast and efficient tool designed to automate the detection of SQL Injection vulnerabilities across multiple URLs. Built for penetration testers and bug bounty hunters, this tool enables **mass vulnerability scanning**, **unlimited targets**, and **easy result saving**.
+**SQLI Tester** is a fast and efficient tool designed to automate the detection of SQL Injection vulnerabilities across multiple targets. Built for penetration testers and bug bounty hunters, this tool enables **mass vulnerability scanning**, **unlimited targets**, and **easy result saving**.
 
 ## Features
 
