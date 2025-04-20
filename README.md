@@ -15,4 +15,4 @@
 ```bash
 git clone https://github.com/yourusername/SQLITester.git
 cd SQLITester
-pip install -r requirements.txt
+python3 sqlitester.py
